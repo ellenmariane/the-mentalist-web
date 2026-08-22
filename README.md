@@ -1,10 +1,10 @@
-# The Mentalist Web 🕵️‍♂️🔴
+# The Mentalist Web 
 
 Projeto desenvolvido como prática de desenvolvimento web, inspirado na série **The Mentalist**.
 
 O site apresenta informações sobre a série, personagens e elementos inspirados nas investigações do CBI.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * Página inicial temática
 * Página sobre a série
@@ -12,7 +12,7 @@ O site apresenta informações sobre a série, personagens e elementos inspirado
 * Design inspirado no universo de *The Mentalist*
 
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * HTML
 * CSS
@@ -20,7 +20,7 @@ O site apresenta informações sobre a série, personagens e elementos inspirado
 * Node.js
 * Express
 
-## 🚀 Como executar o projeto
+##  Como executar o projeto
 
 Clone o repositório:
 
